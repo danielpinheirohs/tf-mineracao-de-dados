@@ -39,5 +39,5 @@ Ao final do projeto, concluímos a modelagem dos dados com os melhores algoritmo
 
 ---
 
-**Autor**: Daniel Pinheiro, Carlos Henrique, Anna Pietra e Pedro Saraiva
+### Autores: Daniel Pinheiro | Pedro Saraiva | Anna Pietra | Carlos Henrique
 
